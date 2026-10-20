@@ -100,3 +100,4 @@ sudo -u postgres psql -d tp1_db -c "SELECT * FROM products;"
 - `connection refused` : `sudo service postgresql start`
 - Erreur CORS : le frontend doit tourner sur le port 5173.
 - Autre URL d'API : `VITE_API_URL=http://localhost:8000/api npm run dev`
+# tp1
